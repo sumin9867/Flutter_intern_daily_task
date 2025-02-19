@@ -1,0 +1,16 @@
+{
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "noaccount": "Don't have an Account?",
+  "signup": "Sign Up",
+  "register": "Register",
+  "emailvalid": "Email cannot be empty",
+  "passwordvalid": "Password must have at least 8 characters",
+  "confirmvalid": "Passwords are different",
+  "confirm":"Confirm Password",
+  "haveAccount":"Already have an account",
+  "error":"Invalid Input"
+
+
+}
